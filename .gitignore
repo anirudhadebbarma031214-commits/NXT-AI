@@ -1,0 +1,6 @@
+backend/checkpoint.pt
+backend/__pycache__/
+backend/.venv/
+*.pt
+.env
+__pycache__/
